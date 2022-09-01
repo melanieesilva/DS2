@@ -49,7 +49,7 @@ internal class Program
 
                 case 2:
 
-                if (listaPessoas.Count > 2){
+                if (listaPessoas.Count > 20){
                     System.Console.WriteLine("MUITAS PESSOAAAAAAS");
                     System.Console.WriteLine("\nVoltar ao Menu: 10");
                     condicaodo = Int32.Parse(Console.ReadLine());
