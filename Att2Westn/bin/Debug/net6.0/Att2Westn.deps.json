@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Att2Westn/1.0.0": {
+        "runtime": {
+          "Att2Westn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Att2Westn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
