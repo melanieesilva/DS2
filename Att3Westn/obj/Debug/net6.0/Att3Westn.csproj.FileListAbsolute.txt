@@ -1,0 +1,15 @@
+C:\Users\melan\Documents\Att3Westn\bin\Debug\net6.0\Att3Westn.exe
+C:\Users\melan\Documents\Att3Westn\bin\Debug\net6.0\Att3Westn.deps.json
+C:\Users\melan\Documents\Att3Westn\bin\Debug\net6.0\Att3Westn.runtimeconfig.json
+C:\Users\melan\Documents\Att3Westn\bin\Debug\net6.0\Att3Westn.dll
+C:\Users\melan\Documents\Att3Westn\bin\Debug\net6.0\Att3Westn.pdb
+C:\Users\melan\Documents\Att3Westn\obj\Debug\net6.0\Att3Westn.csproj.AssemblyReference.cache
+C:\Users\melan\Documents\Att3Westn\obj\Debug\net6.0\Att3Westn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melan\Documents\Att3Westn\obj\Debug\net6.0\Att3Westn.AssemblyInfoInputs.cache
+C:\Users\melan\Documents\Att3Westn\obj\Debug\net6.0\Att3Westn.AssemblyInfo.cs
+C:\Users\melan\Documents\Att3Westn\obj\Debug\net6.0\Att3Westn.csproj.CoreCompileInputs.cache
+C:\Users\melan\Documents\Att3Westn\obj\Debug\net6.0\Att3Westn.dll
+C:\Users\melan\Documents\Att3Westn\obj\Debug\net6.0\refint\Att3Westn.dll
+C:\Users\melan\Documents\Att3Westn\obj\Debug\net6.0\Att3Westn.pdb
+C:\Users\melan\Documents\Att3Westn\obj\Debug\net6.0\Att3Westn.genruntimeconfig.cache
+C:\Users\melan\Documents\Att3Westn\obj\Debug\net6.0\ref\Att3Westn.dll
