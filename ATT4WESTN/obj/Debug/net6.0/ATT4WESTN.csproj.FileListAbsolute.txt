@@ -1,0 +1,15 @@
+C:\Users\expocli\Documents\ATT4WESTN\bin\Debug\net6.0\ATT4WESTN.exe
+C:\Users\expocli\Documents\ATT4WESTN\bin\Debug\net6.0\ATT4WESTN.deps.json
+C:\Users\expocli\Documents\ATT4WESTN\bin\Debug\net6.0\ATT4WESTN.runtimeconfig.json
+C:\Users\expocli\Documents\ATT4WESTN\bin\Debug\net6.0\ATT4WESTN.dll
+C:\Users\expocli\Documents\ATT4WESTN\bin\Debug\net6.0\ATT4WESTN.pdb
+C:\Users\expocli\Documents\ATT4WESTN\obj\Debug\net6.0\ATT4WESTN.csproj.AssemblyReference.cache
+C:\Users\expocli\Documents\ATT4WESTN\obj\Debug\net6.0\ATT4WESTN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\expocli\Documents\ATT4WESTN\obj\Debug\net6.0\ATT4WESTN.AssemblyInfoInputs.cache
+C:\Users\expocli\Documents\ATT4WESTN\obj\Debug\net6.0\ATT4WESTN.AssemblyInfo.cs
+C:\Users\expocli\Documents\ATT4WESTN\obj\Debug\net6.0\ATT4WESTN.csproj.CoreCompileInputs.cache
+C:\Users\expocli\Documents\ATT4WESTN\obj\Debug\net6.0\ATT4WESTN.dll
+C:\Users\expocli\Documents\ATT4WESTN\obj\Debug\net6.0\refint\ATT4WESTN.dll
+C:\Users\expocli\Documents\ATT4WESTN\obj\Debug\net6.0\ATT4WESTN.pdb
+C:\Users\expocli\Documents\ATT4WESTN\obj\Debug\net6.0\ATT4WESTN.genruntimeconfig.cache
+C:\Users\expocli\Documents\ATT4WESTN\obj\Debug\net6.0\ref\ATT4WESTN.dll
